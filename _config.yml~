@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://brogramer.github.com
-title: Brogramer's Blog 
-subtitle: Brother Grand Member
-author: Bruce Fu
+title: My Octopress Blog
+subtitle: A blogging framework for hackers.
+author: Your Name
 simple_search: http://google.com/search
 description:
 
