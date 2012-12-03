@@ -4,7 +4,7 @@
   <title><![CDATA[Brogramer's Blog]]></title>
   <link href="http://brogramer.github.com/atom.xml" rel="self"/>
   <link href="http://brogramer.github.com/"/>
-  <updated>2012-12-03T23:30:33+08:00</updated>
+  <updated>2012-12-03T23:40:45+08:00</updated>
   <id>http://brogramer.github.com/</id>
   <author>
     <name><![CDATA[Bruce Fu]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Miss Python]]></title>
+    <link href="http://brogramer.github.com/blog/2012/12/03/miss-python/"/>
+    <updated>2012-12-03T16:40:00+08:00</updated>
+    <id>http://brogramer.github.com/blog/2012/12/03/miss-python</id>
+    <content type="html"><![CDATA[<p>On and on, it is uninstalled Python that make my octopress can not deploy though can preview.
+After installed Python, it refresh in a second and the CNAME&#8217;s problem is solved incidentally.
+Yes, on the official homepage, there is no python mentioned, because it is Linux as default.</p>
+
+<p>How many blogs I hava read and also heard to install Python, but because without Python it works at first.
+So I ignore their suggest.</p>
+
+<p>It&#8217;s the fault of my opinionated heart.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Next]]></title>
