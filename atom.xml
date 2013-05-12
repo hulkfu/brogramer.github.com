@@ -4,7 +4,7 @@
   <title><![CDATA[Brogramer's Blog]]></title>
   <link href="http://brogramer.github.com/atom.xml" rel="self"/>
   <link href="http://brogramer.github.com/"/>
-  <updated>2012-12-04T00:07:18+08:00</updated>
+  <updated>2013-05-12T21:24:45+08:00</updated>
   <id>http://brogramer.github.com/</id>
   <author>
     <name><![CDATA[Bruce Fu]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[在自己手里放心]]></title>
+    <link href="http://brogramer.github.com/blog/2013/05/12/zai-zi-ji-shou-li-fang-xin/"/>
+    <updated>2013-05-12T21:20:00+08:00</updated>
+    <id>http://brogramer.github.com/blog/2013/05/12/zai-zi-ji-shou-li-fang-xin</id>
+    <content type="html"><![CDATA[<p>你的blog信息一直在git上，至少自己有一个备份，心里就安心。
+在外面的blog，如果有什么三长两短，心里会多难受啊。
+把以前的blog内容整理一下，搬过来。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[come bace]]></title>
+    <link href="http://brogramer.github.com/blog/2013/05/12/come-bace/"/>
+    <updated>2013-05-12T20:32:00+08:00</updated>
+    <id>http://brogramer.github.com/blog/2013/05/12/come-bace</id>
+    <content type="html"><![CDATA[<p>我又回来了，先得瑟一下~</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Miss Python]]></title>
