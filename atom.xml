@@ -4,7 +4,7 @@
   <title><![CDATA[Brogramer's Blog]]></title>
   <link href="http://brogramer.github.com/atom.xml" rel="self"/>
   <link href="http://brogramer.github.com/"/>
-  <updated>2013-05-14T22:45:27+08:00</updated>
+  <updated>2013-05-14T23:16:57+08:00</updated>
   <id>http://brogramer.github.com/</id>
   <author>
     <name><![CDATA[Bruce Fu]]></name>
@@ -18,9 +18,11 @@
     <link href="http://brogramer.github.com/blog/2013/05/12/zai-zi-ji-shou-li-fang-xin/"/>
     <updated>2013-05-12T21:20:00+08:00</updated>
     <id>http://brogramer.github.com/blog/2013/05/12/zai-zi-ji-shou-li-fang-xin</id>
-    <content type="html"><![CDATA[<p>你的blog信息一直在git上，至少自己有一个备份，心里就安心。
-在外面的blog，如果有什么三长两短，心里会多难受啊。
-把以前的blog内容整理一下，搬过来。</p>
+    <content type="html"><![CDATA[<p>你的blog信息一直在git上，至少自己有一个备份，心里就安心。</p>
+
+<p>在外面的blog，如果有什么三长两短，心里会多难受啊。</p>
+
+<p>把以前的blog内容整理一下，搬过来。</p>
 ]]></content>
   </entry>
   
