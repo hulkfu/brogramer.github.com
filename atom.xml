@@ -4,7 +4,7 @@
   <title><![CDATA[Brogramer's Blog]]></title>
   <link href="http://brogramer.github.com/atom.xml" rel="self"/>
   <link href="http://brogramer.github.com/"/>
-  <updated>2013-05-14T23:32:18+08:00</updated>
+  <updated>2013-05-14T23:42:20+08:00</updated>
   <id>http://brogramer.github.com/</id>
   <author>
     <name><![CDATA[Bruce Fu]]></name>
@@ -28,9 +28,9 @@
   
   <entry>
     <title type="html"><![CDATA[come bace]]></title>
-    <link href="http://brogramer.github.com/blog/2013/05/12/come-bace/"/>
+    <link href="http://brogramer.github.com/blog/2013/05/12/come-back/"/>
     <updated>2013-05-12T20:32:00+08:00</updated>
-    <id>http://brogramer.github.com/blog/2013/05/12/come-bace</id>
+    <id>http://brogramer.github.com/blog/2013/05/12/come-back</id>
     <content type="html"><![CDATA[<p>我又回来了，先得瑟一下~</p>
 ]]></content>
   </entry>
