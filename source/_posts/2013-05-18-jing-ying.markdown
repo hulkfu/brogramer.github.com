@@ -3,7 +3,7 @@ layout: post
 title: "经营"
 date: 2013-05-18 19:27
 comments: true
-categories:essay
+categories: essay
 ---
 网站也好，博客也罢，是要去经营的。  
 
