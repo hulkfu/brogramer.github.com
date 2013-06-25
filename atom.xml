@@ -4,7 +4,7 @@
   <title><![CDATA[Brogramer's Blog]]></title>
   <link href="http://brogramer.github.com/atom.xml" rel="self"/>
   <link href="http://brogramer.github.com/"/>
-  <updated>2013-05-18T19:34:57+08:00</updated>
+  <updated>2013-06-25T19:54:59+08:00</updated>
   <id>http://brogramer.github.com/</id>
   <author>
     <name><![CDATA[Bruce Fu]]></name>
@@ -64,13 +64,13 @@
     <updated>2012-12-03T16:40:00+08:00</updated>
     <id>http://brogramer.github.com/blog/2012/12/03/miss-python</id>
     <content type="html"><![CDATA[<p>On and on, it is uninstalled Python that make my octopress can not deploy though can preview.
-After installed Python, it refresh in a second and the CNAME&#8217;s problem is solved incidentally.
+After installed Python, it refresh in a second and the CNAME&rsquo;s problem is solved incidentally.
 Yes, on the official homepage, there is no python mentioned, because it is Linux as default.</p>
 
 <p>How many blogs I hava read and also heard to install Python, but because without Python it works at first.
 So I ignore their suggest.</p>
 
-<p>It&#8217;s the fault of my opinionated heart.</p>
+<p>It&rsquo;s the fault of my opinionated heart.</p>
 ]]></content>
   </entry>
   
@@ -97,8 +97,8 @@ So I ignore their suggest.</p>
     <link href="http://brogramer.github.com/blog/2012/12/01/it-works/"/>
     <updated>2012-12-01T22:39:00+08:00</updated>
     <id>http://brogramer.github.com/blog/2012/12/01/it-works</id>
-    <content type="html"><![CDATA[<p>Finally, it works! Threshold is necessary, as said on the Octopress&#8217; page, &#8220;Octopress is a blogging framework for hackers.&#8221;
-So if you are not, it probably isn&#8217;t for you. In old china, the high threshold shows the high position of the family.
+    <content type="html"><![CDATA[<p>Finally, it works! Threshold is necessary, as said on the Octopress&#8217; page, &ldquo;Octopress is a blogging framework for hackers.&rdquo;
+So if you are not, it probably isn&rsquo;t for you. In old china, the high threshold shows the high position of the family.
 Thanks to the threshold, it makes us special.</p>
 ]]></content>
   </entry>
@@ -109,7 +109,7 @@ Thanks to the threshold, it makes us special.</p>
     <updated>2012-12-01T15:31:00+08:00</updated>
     <id>http://brogramer.github.com/blog/2012/12/01/i-am-here</id>
     <content type="html"><![CDATA[<p>I am here!
-It&#8217;s great!</p>
+It&rsquo;s great!</p>
 ]]></content>
   </entry>
   
