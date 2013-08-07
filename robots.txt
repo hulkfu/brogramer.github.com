@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://brogramer.github.com/sitemap.xml 
+Sitemap: http://brogramer.github.io/sitemap.xml 

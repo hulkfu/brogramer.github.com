@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: essay | Brogramer's Blog]]></title>
-  <link href="http://brogramer.github.com/blog/categories/essay/atom.xml" rel="self"/>
-  <link href="http://brogramer.github.com/"/>
-  <updated>2013-08-07T01:38:06-04:00</updated>
-  <id>http://brogramer.github.com/</id>
+  <link href="http://brogramer.github.io/blog/categories/essay/atom.xml" rel="self"/>
+  <link href="http://brogramer.github.io/"/>
+  <updated>2013-08-07T01:46:36-04:00</updated>
+  <id>http://brogramer.github.io/</id>
   <author>
     <name><![CDATA[Bruce Fu]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[经营]]></title>
-    <link href="http://brogramer.github.com/blog/2013/05/18/jing-ying/"/>
+    <link href="http://brogramer.github.io/blog/2013/05/18/jing-ying/"/>
     <updated>2013-05-18T19:27:00-04:00</updated>
-    <id>http://brogramer.github.com/blog/2013/05/18/jing-ying</id>
+    <id>http://brogramer.github.io/blog/2013/05/18/jing-ying</id>
     <content type="html"><![CDATA[<p>网站也好，博客也罢，是要去经营的。</p>
 
 <p>像腾讯广为流传的一句话：“产品是运营出来的。”这里的运营，也是经营的一部分。</p>
