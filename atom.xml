@@ -4,7 +4,7 @@
   <title><![CDATA[Brogramer's Blog]]></title>
   <link href="http://brogramer.github.com/atom.xml" rel="self"/>
   <link href="http://brogramer.github.com/"/>
-  <updated>2013-07-01T11:31:21+08:00</updated>
+  <updated>2013-08-07T01:38:06-04:00</updated>
   <id>http://brogramer.github.com/</id>
   <author>
     <name><![CDATA[Bruce Fu]]></name>
@@ -14,9 +14,18 @@
 
   
   <entry>
+    <title type="html"><![CDATA[write on c9.io]]></title>
+    <link href="http://brogramer.github.com/blog/2013/08/06/write-on-c9-dot-io/"/>
+    <updated>2013-08-06T23:25:00-04:00</updated>
+    <id>http://brogramer.github.com/blog/2013/08/06/write-on-c9-dot-io</id>
+    <content type="html"><![CDATA[<p>This is write on c9.io</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Long time no code]]></title>
     <link href="http://brogramer.github.com/blog/2013/06/25/long-time-no-code/"/>
-    <updated>2013-06-25T20:03:00+08:00</updated>
+    <updated>2013-06-25T20:03:00-04:00</updated>
     <id>http://brogramer.github.com/blog/2013/06/25/long-time-no-code</id>
     <content type="html"><![CDATA[<p>有一个月没有写代码了，然后发现我是如此想念coding。</p>
 
@@ -31,7 +40,7 @@
   <entry>
     <title type="html"><![CDATA[经营]]></title>
     <link href="http://brogramer.github.com/blog/2013/05/18/jing-ying/"/>
-    <updated>2013-05-18T19:27:00+08:00</updated>
+    <updated>2013-05-18T19:27:00-04:00</updated>
     <id>http://brogramer.github.com/blog/2013/05/18/jing-ying</id>
     <content type="html"><![CDATA[<p>网站也好，博客也罢，是要去经营的。</p>
 
@@ -54,7 +63,7 @@
   <entry>
     <title type="html"><![CDATA[在自己手里放心]]></title>
     <link href="http://brogramer.github.com/blog/2013/05/12/zai-zi-ji-shou-li-fang-xin/"/>
-    <updated>2013-05-12T21:20:00+08:00</updated>
+    <updated>2013-05-12T21:20:00-04:00</updated>
     <id>http://brogramer.github.com/blog/2013/05/12/zai-zi-ji-shou-li-fang-xin</id>
     <content type="html"><![CDATA[<p>你的blog信息一直在git上，至少自己有一个备份，心里就安心。</p>
 
@@ -67,7 +76,7 @@
   <entry>
     <title type="html"><![CDATA[come back]]></title>
     <link href="http://brogramer.github.com/blog/2013/05/12/come-back/"/>
-    <updated>2013-05-12T20:32:00+08:00</updated>
+    <updated>2013-05-12T20:32:00-04:00</updated>
     <id>http://brogramer.github.com/blog/2013/05/12/come-back</id>
     <content type="html"><![CDATA[<p>我又回来了，先得瑟一下~</p>
 ]]></content>
@@ -76,7 +85,7 @@
   <entry>
     <title type="html"><![CDATA[Miss Python]]></title>
     <link href="http://brogramer.github.com/blog/2012/12/03/miss-python/"/>
-    <updated>2012-12-03T16:40:00+08:00</updated>
+    <updated>2012-12-03T16:40:00-05:00</updated>
     <id>http://brogramer.github.com/blog/2012/12/03/miss-python</id>
     <content type="html"><![CDATA[<p>On and on, it is uninstalled Python that make my octopress can not deploy though can preview.
 After installed Python, it refresh in a second and the CNAME&rsquo;s problem is solved incidentally.
@@ -92,7 +101,7 @@ So I ignore their suggest.</p>
   <entry>
     <title type="html"><![CDATA[Next]]></title>
     <link href="http://brogramer.github.com/blog/2012/12/03/next/"/>
-    <updated>2012-12-03T15:40:00+08:00</updated>
+    <updated>2012-12-03T15:40:00-05:00</updated>
     <id>http://brogramer.github.com/blog/2012/12/03/next</id>
     <content type="html"><![CDATA[
 ]]></content>
@@ -101,7 +110,7 @@ So I ignore their suggest.</p>
   <entry>
     <title type="html"><![CDATA[Camel Shadow]]></title>
     <link href="http://brogramer.github.com/blog/2012/12/03/camel-shadow/"/>
-    <updated>2012-12-03T15:00:00+08:00</updated>
+    <updated>2012-12-03T15:00:00-05:00</updated>
     <id>http://brogramer.github.com/blog/2012/12/03/camel-shadow</id>
     <content type="html"><![CDATA[<p><img src="http://brogramer.github.com/images/fun/camel-shadow.gif"></p>
 ]]></content>
@@ -110,7 +119,7 @@ So I ignore their suggest.</p>
   <entry>
     <title type="html"><![CDATA[It works!]]></title>
     <link href="http://brogramer.github.com/blog/2012/12/01/it-works/"/>
-    <updated>2012-12-01T22:39:00+08:00</updated>
+    <updated>2012-12-01T22:39:00-05:00</updated>
     <id>http://brogramer.github.com/blog/2012/12/01/it-works</id>
     <content type="html"><![CDATA[<p>Finally, it works! Threshold is necessary, as said on the Octopress&#8217; page, &ldquo;Octopress is a blogging framework for hackers.&rdquo;
 So if you are not, it probably isn&rsquo;t for you. In old china, the high threshold shows the high position of the family.
@@ -121,7 +130,7 @@ Thanks to the threshold, it makes us special.</p>
   <entry>
     <title type="html"><![CDATA[I am Here!]]></title>
     <link href="http://brogramer.github.com/blog/2012/12/01/i-am-here/"/>
-    <updated>2012-12-01T15:31:00+08:00</updated>
+    <updated>2012-12-01T15:31:00-05:00</updated>
     <id>http://brogramer.github.com/blog/2012/12/01/i-am-here</id>
     <content type="html"><![CDATA[<p>I am here!
 It&rsquo;s great!</p>
