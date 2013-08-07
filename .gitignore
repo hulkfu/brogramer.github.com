@@ -14,3 +14,5 @@ node_modules
 *.swp
 # Aptana project
 .project
+# c9.io
+.c9revisions/
