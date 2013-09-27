@@ -6,8 +6,9 @@ project_type = :stand_alone
 # Publishing paths
 http_path = "/"
 http_images_path = "/images"
+http_generated_images_path = "/images"
 http_fonts_path = "/fonts"
-css_dir = "public/stylesheets"
+css_dir = "source/stylesheets"
 
 # Local development paths
 sass_dir = "sass"
