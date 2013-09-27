@@ -20,4 +20,4 @@ group :development do
   gem 'jekyll-page-hooks'
 end
 
-gem 'rack', '~> 1.5.2'
+gem 'sinatra', '~> 1.4.2'
